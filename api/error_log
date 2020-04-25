@@ -1,0 +1,31 @@
+[24-Apr-2020 15:45:34 UTC] PHP Notice:  Undefined variable: sender_id in /home/easifixco/public_html/shubham/api/webhook.php on line 25
+[24-Apr-2020 15:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method TwilioWhatsapp::getRecord() in /home/easifixco/public_html/shubham/api/webhook.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/easifixco/public_html/shubham/api/webhook.php on line 25
+[24-Apr-2020 16:01:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/easifixco/public_html/shubham/api/TwilioWhatsapp.php on line 80
+[25-Apr-2020 12:56:57 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 12:57:44 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:14:40 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:14:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/easifixco/public_html/shubham/api/TwilioWhatsapp.php on line 80
+[25-Apr-2020 13:14:43 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:14:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/easifixco/public_html/shubham/api/TwilioWhatsapp.php on line 80
+[25-Apr-2020 13:19:02 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:19:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/easifixco/public_html/shubham/api/TwilioWhatsapp.php on line 80
+[25-Apr-2020 13:21:16 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:21:29 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:21:29 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:23:54 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:23:55 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:24:51 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:24:52 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:25:19 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:25:30 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:29:09 UTC] PHP Notice:  Undefined variable: whatsappObj in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 17
+[25-Apr-2020 13:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getRecord() on null in /home/easifixco/public_html/shubham/api/webhookstatus.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 17
+[25-Apr-2020 13:31:02 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 18
+[25-Apr-2020 13:38:54 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
+[25-Apr-2020 13:39:31 UTC] PHP Notice:  Undefined index: Body in /home/easifixco/public_html/shubham/api/webhookstatus.php on line 21
