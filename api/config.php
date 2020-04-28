@@ -1,7 +1,7 @@
 <?php
 
-$sid="ACcccfe6ce8d9b9e8ec0ed9e42284bc92f";
-$token="a488962c6601c34ddb1f8d328a0ab6ac";
+$sid="";
+$token="";
 $sender_id="+14155238886";
 $receiver_id="+917888586276";
 
